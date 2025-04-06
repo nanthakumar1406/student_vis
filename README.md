@@ -57,3 +57,5 @@ The dashboard uses the "StudentsPerformance.csv" dataset containing:
 
 ## 📜 License
 MIT License
+
+# https://studentvis.streamlit.app/
